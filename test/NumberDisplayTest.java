@@ -1,8 +1,10 @@
-package src;
+package test;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import src.NumberDisplay;
 
 public class NumberDisplayTest {
   @Test
